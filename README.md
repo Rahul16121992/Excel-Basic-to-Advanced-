@@ -7,22 +7,22 @@ It is a spreadsheet program developed by Microsoft. Excel organizes data in colu
 The first version was released in 1985 and has gone through several changes over the years. However, the main functionality mostly remains the same.
 # Excel is typically used for:
 
-Analysis
-Data entry
-Data management
-Accounting
-Budgeting
-Data analysis
-Visuals and graphs
-Programming
-Financial modeling
+Analysis,
+Data entry,
+Data management,
+Accounting,
+Budgeting,
+Data analysis,
+Visuals and graphs,
+Programming,
+Financial modeling,
 And much, much more!
 
 # Why Use Excel?
-It is the most popular spreadsheet program in the world
-It is easy to learn and to get started.
-The skill ceiling is high, which means that you can do more advanced things as you become better
-It can be used with both work and in everyday life, such as to create a family budget
+It is the most popular spreadsheet program in the world,
+It is easy to learn and to get started.,
+The skill ceiling is high, which means that you can do more advanced things as you become better,
+It can be used with both work and in everyday life, such as to create a family budget.
 It has a huge community support
 It is continuously supported by Microsoft
 Templates and frameworks can be reused by yourself and others, lowering creation costs
